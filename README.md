@@ -25,8 +25,3 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho2eny&theme=github_dark" width="100%" alt="GitHub Profile Summary"/>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ho2eny&theme=github_dark" width="49%" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ho2eny&theme=github_dark" width="49%" alt="Most Commit Language"/>
-</div>
